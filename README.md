@@ -1,5 +1,9 @@
 # using-github
 
+> **Archive notice:** using-github now lives in
+> [`patinaproject/skills`](https://github.com/patinaproject/skills). Use that
+> repository for the current plugin, issues, and updates.
+
 One GitHub workflow skill for coding agents: file issues, edit issues, start
 branches, write changelogs, and prepare pull requests from repository rules.
 
